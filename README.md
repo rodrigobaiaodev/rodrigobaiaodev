@@ -8,7 +8,7 @@ da formação Rocketseat, enquanto desenvolvo projetos reais em produção.
 🚀 **Projetos em destaque:**
 - [Deazons](https://deazons.com) — Portal de filmes e séries com pipeline 
 automatizado de conteúdo via IA, +12.000 páginas indexadas no Google
-- [FlixPick]([#](https://flixpick.vercel.app)) — Plataforma de recomendação de filmes integrada à API do TMDB *(em desenvolvimento)*
+- [FlixPick](https://flixpick.vercel.app) — Plataforma de recomendação de filmes integrada à API do TMDB *(em desenvolvimento)*
 
 🔭 **Atualmente estudando:** JavaScript → TypeScript → React → Node.js
 
