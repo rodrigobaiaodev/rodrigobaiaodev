@@ -1,23 +1,18 @@
-### 👋 Olá, eu sou o Rodrigo
+### 👋 Hi, I'm Rodrigo
+**Software Engineering Student | Full-Stack Developer in Training**
 
-**Estudante de Engenharia de Software | Desenvolvedor Full-Stack em formação**
+I'm building a solid foundation in TypeScript, React, Next.js, and Node.js through Rocketseat's Full-Stack program, while shipping real projects to production.
 
-Estou construindo minha base em TypeScript, React, Next.js e Node.js através 
-da formação Rocketseat, enquanto desenvolvo projetos reais em produção.
+🚀 **Featured Projects:**
+- [Deazons](https://deazons.com) — Movies & TV shows portal with an automated AI content pipeline, 12,000+ pages indexed on Google
+- [FlixPick](https://flixpick.vercel.app) — Movie recommendation platform built on the TMDB API *(in development)*
 
-🚀 **Projetos em destaque:**
-- [Deazons](https://deazons.com) — Portal de filmes e séries com pipeline 
-automatizado de conteúdo via IA, +12.000 páginas indexadas no Google
-- [FlixPick](https://flixpick.vercel.app) — Plataforma de recomendação de filmes integrada à API do TMDB *(em desenvolvimento)*
+🔭 **Currently learning:** JavaScript → TypeScript → React → Node.js
 
-🔭 **Atualmente estudando:** JavaScript → TypeScript → React → Node.js
-
-📫 **Contato:**
+📫 **Contact:**
 - [LinkedIn](https://linkedin.com/in/rodrigo-baiao)
 - rodrigobaiao.dev@gmail.com
 
 ---
-
-### 🛠️ Tecnologias
-
+### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,css,html,git,github)
