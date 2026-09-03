@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Rodrigo
-**Software Engineering Student | Full-Stack Developer in Training**
+**Software Engineering| Full-Stack Developer**
 
 I'm building a solid foundation in TypeScript, React, Next.js, and Node.js through Rocketseat's Full-Stack program, while shipping real projects to production.
 
